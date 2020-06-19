@@ -9,4 +9,4 @@
 
 ## Results (before/after)
 
-![results](./results.png)
+![results](./results.jpg)
